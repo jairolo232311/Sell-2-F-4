@@ -1,0 +1,123 @@
+local args = {
+    [1] = "sell",
+    [2] = 10058,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+local args = {
+    [1] = "sell",
+    [2] = 10197,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10193,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10112,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10140,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10157,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10018,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10065,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 100115,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10133,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10099,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10091,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10111,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
+wait()
+
+local args = {
+    [1] = "sell",
+    [2] = 10091,
+    [3] = 1
+}
+
+game:GetService("ReplicatedStorage").Events.Coin.CoinMarketRE:FireServer(unpack(args))
